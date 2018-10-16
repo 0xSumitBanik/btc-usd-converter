@@ -1,0 +1,23 @@
+.styleDataDisplay{
+    margin-top: 100px;
+    padding-left:10% ;
+    padding-right: 10% ;
+    padding-top: 20px;
+    padding-bottom: 20px ;
+    color: #FFFFFF;
+    margin-left: 15%;
+    margin-right: 10%;
+    background: #1f4037;  /* fallback for old browsers */
+    border-radius: 10px;
+}
+.styleChartDisplay{
+
+}
+
+.styleNavbar{
+    background: #044A3D;
+
+}
+.navbar-brand > .navbarBrand{
+    color:#fff;
+}
